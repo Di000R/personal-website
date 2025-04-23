@@ -1,0 +1,22 @@
+# .gitignore
+
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.packages
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.idea/
+frontend/.vscode/
+
+# Dart backend
+backend/.dart_tool/
+backend/.packages
+backend/build/
+backend/.idea/
+backend/.vscode/
+
+# Common
+*.log
+*.lock
+.env
