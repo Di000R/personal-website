@@ -1,4 +1,4 @@
-package dev.aladdine.portfolio
+package gora.enes.portfolio
 
 import io.flutter.embedding.android.FlutterActivity
 

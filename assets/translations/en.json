@@ -1,35 +1,20 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Mobile App Developer",
+    "name": "Enes Gora",
+    "description": "Student",
     "subDescription": "Flutter & Python Enthusiast",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/Di000R",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome"
             }
         },
+
         {
-            "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
-            "icon": {
-                "codePoint": "0xf0ea",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
-            "icon": {
-                "codePoint": "0xeffb",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "aladdine.dev@gmail.com",
-            "url": "mailto:aladdine.dev@gmail.com",
+            "tooltip": "enes.gora@gmail.com",
+            "url": "mailto:enes.gora@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome"
@@ -54,15 +39,15 @@
             "url": "https://drive.google.com/file/d/1SEDu-wdXXsYXX48Ee3EKLg7YhdKyt72U/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Hi, I'm Aladdine, an apprentice developer and fifth-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical experience to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.",
+    "aboutDescription": "Hi, I'm Enes Gora, a dedicated student at Beder University in Albania, currently pursuing my degree there. With a strong interest in networking, software-defined systems, and emerging technologies like 5G and AI, I strive to bridge theory with hands-on experience. I'm passionate about building intelligent, real-world solutions and continuously learning to contribute to innovative and meaningful projects.",
     "experiences": [
         {
-            "role": "Mobile App Developer",
-            "company": "Linnovlab",
-            "description": "Development of a digital ecosystem for restaurants notably POS systems, kiosks, and dashboards, enabling a seamless user experience with real-time and offline features.",
-            "isPresent": true,
-            "startYear": 2023,
-            "endYear": 2025,
+            "role": "Junior Backend Developer",
+            "company": "Kiwi.com",
+            "description": "Contributed to the development and optimization of travel booking APIs and microservices, supporting millions of global users. Focused on performance, scalability, and seamless third-party integrations within a service-oriented architecture.",
+            "isPresent": false,
+            "startYear": 2022,
+            "endYear": 2023,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -104,352 +89,15 @@
             ],
             "links": [
                 {
-                    "url": "https://linnovlab.com",
-                    "display": "Linnovlab"
-                },
-                {
-                    "url": "https://apps.apple.com/fr/app/caisse-digital-foody/id6664054501",
-                    "display": "Digital Foody POS - iOS"
+                    "url": "https://www.kiwi.com",
+                    "display": "Kiwi.com"
                 }
             ]
-        },
-        {
-            "role": "Mobile App Developer",
-            "company": "Walt Disney Imagineering",
-            "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
-            "isPresent": false,
-            "startYear": 2022,
-            "endYear": 2023,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Django",
-                    "icon": {
-                        "codePoint": "0xeee7",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "PostgreSQL",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/postgresql.svg"
-                    }
-                },
-                {
-                    "name": "SQLite",
-                    "icon": {
-                        "codePoint": "0xe944",
-                        "fontFamily": "OctIcons"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                },
-                {
-                    "name": "AWS",
-                    "icon": {
-                        "codePoint": "0xeed1",
-                        "fontFamily": "BoxIcons"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
-                }
-            ]
-        },
-        {
-            "role": "Mobile App Developer",
-            "company": "Solutions Multi Techniques",
-            "description": "Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
-            "startYear": 2022,
-            "startMonth": 1,
-            "endYear": 2022,
-            "endMonth": 2,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Firebase",
-                    "icon": {
-                        "assetName": "assets/icons/other/firebase.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.smt-alarme-videosurveillance.com",
-                    "display": "Solutions Multi Techniques"
-                }
-            ]
-        },
-        {
-            "role": "Web Developer",
-            "company": "Association FAIRE",
-            "description": "Development of the association's website, in collaboration with a group of developers. It provides visitors with the opportunity to learn more about the association and become members.\nTo date, the website has attracted over 10,000 visits.",
-            "startYear": 2021,
-            "startMonth": 5,
-            "endYear": 2021,
-            "endMonth": 6,
-            "technologies": [
-                {
-                    "name": "HTML",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/html-5.svg"
-                    }
-                },
-                {
-                    "name": "CSS",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/css3.svg"
-                    }
-                },
-                {
-                    "name": "Javascript",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/javascript.svg"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
-                }
-            ]
-        }
+        }    
+        
     ],
     "present": "Present",
-    "projects": [
-        {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/portfolio.png",
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
-                }
-            ]
-        },
-        {
-            "name": "Learn Flow API",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/learnflow-api.png",
-            "technologies": [
-                {
-                    "name": "Node.js",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/nodejs.svg"
-                    }
-                },
-                {
-                    "name": "Express",
-                    "icon": {
-                        "assetName": "assets/icons/other/express-js.svg",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "TypeScript",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/typescript.svg"
-                    }
-                },
-                {
-                    "name": "MongoDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mongodb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Learn Flow Backoffice",
-            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
-            "technologies": [
-                {
-                    "name": "Flask",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flask.svg",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        }
-    ],
+
     "languages": [
         {
             "code": "en",
@@ -458,29 +106,16 @@
             "icon": {
                 "assetName": "assets/icons/flags/united-states-of-america.svg"
             }
-        },
-        {
-            "code": "fr",
-            "name": "French",
-            "nativeName": "Français",
-            "icon": {
-                "assetName": "assets/icons/flags/france.svg"
-            }
         }
     ],
     "bottomBanner": {
-        "message": "Open source portfolio -",
-        "displayLink": "Fork it",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+        "message": "Open source portfolio -"
     },
     "portfolio": "Portfolio",
     "homeSectionTitle": "Home",
     "aboutSectionTitle": "About",
     "aboutSectionTitleAlt": "About Me",
     "experienceSectionTitle": "Experience",
-    "projectsSectionTitle": "Projects",
-    "resume": "Resume",
-    "downloadResume": "Download resume",
     "openUrlError": "Could not open the url",
     "unknownLanguageError": "Language unknown"
 }

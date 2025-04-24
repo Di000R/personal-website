@@ -5,15 +5,15 @@ Here's the template of a JSON translation file:
 ```json
 {
   // Personal Information
-  "name": "Aladdine Abdou", // Full name (first name and last name)
-  "description": "Software Imagineer", // Your professional title or role (e.g., Software Engineer)
-  "subDescription": "Flutter Enthusiast", // A brief description of your interests or focus
+  "name": "Enes Gora", // Full name (first name and last name)
+  "description": "Student", // Your professional title or role (e.g., Software Engineer)
+  "subDescription": "Python Enthusiast", // A brief description of your interests or focus
 
   // Contact Details
   "contacts": [
     {
       "tooltip": "Github", // Tooltip displayed when hovering or long-pressing the contact icon button
-      "url": "https://github.com/AladdineDev", // URL to open when the contact icon button is tapped, accepts various URL schemes (sms, tel, mailto, https, file)
+      "url": "https://github.com/EnesGora", // URL to open when the contact icon button is tapped, accepts various URL schemes (sms, tel, mailto, https, file)
       "icon": {
         "assetName": "assets/images/logos/software-development/github.svg", // SVG asset path, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the codePoint and the fontFamily are used, this property must be null.
         "codePoint": "0xefb7", // Unicode code point for the icon prefixed with "0x" for hexadecimal, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the assetName is used, this property must be null.
@@ -32,7 +32,8 @@ Here's the template of a JSON translation file:
   ],
 
   // About Me
-  "aboutDescription": "Hello! I'm Aladdine, an apprentice developer and third-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical expericence to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.", // about text that is displayed in "About Me" section
+  "aboutDescription": "Hi, I'm Enes Gora, a dedicated student at Beder University in Albania, currently pursuing my degree. With a strong interest in networking, software-defined systems, and emerging technologies like 5G and AI, I strive to bridge theory with hands-on experience. I'm passionate about building intelligent, real-world solutions and continuously learning to contribute to innovative and meaningful projects."
+ // about text that is displayed in "About Me" section
 
   // Experiences
   "experiences": [
@@ -69,7 +70,7 @@ Here's the template of a JSON translation file:
     {
       "name": "Portfolio", // Name of the project
       "description": "Yes, it's THIS portfolio! \nThis project follows a Riverpod-based Architecture, using a feature-first approach for its structure. It is fully responsive, and supports multiple themes and languages.", // Description of the project
-      "url": "https://github.com/AladdineDev/portfolio#readme", // URL to open when the project card is tapped
+      "url": "https://github.com/EnesGora/portfolio#readme", // URL to open when the project card is tapped
       "icon": {
         "assetName": "assets/images/logos/software-development/github.svg", // SVG asset path, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the codePoint and the fontFamily are used, this property must be null.
         "codePoint": "0xefb7", // Unicode code point for the icon prefixed with "0x" for hexadecimal, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the assetName is used, this property must be null.
@@ -82,8 +83,8 @@ Here's the template of a JSON translation file:
       ],
       "links": [
         {
-          "url": "https://aladdine.dev", // URL to open when the corresponding link is tapped
-          "display": "Inspired by Aladdine Abdou" // Displayed text for the link
+          "url": "https://gora.enes", // URL to open when the corresponding link is tapped
+          "display": "Inspired by Enes Gora" // Displayed text for the link
         }
       ]
     }
@@ -106,7 +107,7 @@ Here's the template of a JSON translation file:
   "bottomBanner": {
     "message": "Open source portfolio -", // Text at the beginning of the "displayLink" part
     "displayLink": "Fork it!", // Text at the end of the "message" part
-    "linkUrl": "https://github.com/AladdineDev/portfolio" // URL to open when the "displayLink" part is tapped
+    "linkUrl": "https://github.com/EnesGora/portfolio" // URL to open when the "displayLink" part is tapped
   },
 
   // Navigation and Section Titles
